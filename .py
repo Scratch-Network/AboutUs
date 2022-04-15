@@ -1,0 +1,6 @@
+print ("Welcome To Scratch Network!")
+print ("We Are A Group That Invents Nice Neat Technology")
+print ("We Are Not Associated With MIT or Scratch")
+print ("But Anyway We Do Work With Them!")
+print ("We Always Do Code With Python, JavaScript and HTML")
+print ("Visit Us Now On Scratch! https://scratch.mit.edu/users/-TheRealLegend-/")
